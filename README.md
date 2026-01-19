@@ -1,8 +1,8 @@
 # [WIP] aprimoramento_planilhas
 ## Limpeza, classificação e união de planilhas
-*O projeto tem como objetivo o tratamento de planilhas utilizando de automações. Os dados utilizados para criar o código vieram de um Scrapping feito no Google utilizando palavras-chave
-O projeto acadêmico ao qual o código está vinculado se chama "Projeto Fogo na Fake", que tem como intuíto analisar a propagação de fake news relacionadas com o Cerrado, instruir e conscientizar o público quanto à esse problema*
-**O projeto é capaz de:**
+*O repositório tem como objetivo o tratamento de planilhas utilizando de automações. Os dados utilizados para criar o código vieram de um Scrapping feito no Google utilizando palavras-chave
+O repositório acadêmico ao qual o código está vinculado se chama "Projeto Fogo na Fake", que tem como intuíto analisar a propagação de fake news relacionadas com o Cerrado, instruir e conscientizar o público quanto à esse problema*
+**O repositório é capaz de:**
  - Implementar um sistema de classificação de texto em Python. Ele treina um modelo de regressão logística usando TF-IDF em dados textuais rotulados (coluna 'x' ou não 'x') e, em seguida, usa esse modelo para classificar em lote outros arquivos de dados, adicionando probabilidades, marcações e um status de revisão (confiante, revisar, descartado) com base em limiares de confiança.
  - Processar arquivos Excel, para cada arquivo conteudo*.xlsx (que ainda não foi 'limpo' ou 'unificado'), ele saneia o texto, remove linhas onde a coluna 'marcacao_X' contém 'x' e exclui as colunas 'var1', 'var2', 'var3'. Por fim, salva cada arquivo processado com o sufixo '_limpo.xlsx'.
  - Combinar DataFrames, atribuir novos nomes às colunas e remover quaisquer linhas que possam ter vindo com o cabeçalho original dos arquivos.
@@ -45,7 +45,7 @@ com foco em qualidade, consistência e clareza na comunicação com áreas de ne
 - Gestão e Qualidade de Dados  
 - Storytelling com Dados  
 
-## 📈 Projetos em Destaque
+## 📈 repositórios em Destaque
 
 ### 1. Análise de Dados Abertos do Judiciário
 
@@ -54,7 +54,7 @@ com foco em identificação de padrões, tendências e indicadores relevantes.
 
 ---
 
-### 2. Dashboard de Monitoramento Institucional (Projeto Acadêmico)
+### 2. Dashboard de Monitoramento Institucional (repositório Acadêmico)
 
 Desenvolvimento de dashboard completo para acompanhamento de indicadores,
 apoio à tomada de decisão e visualização de métricas estratégicas.
