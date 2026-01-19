@@ -52,11 +52,6 @@ com foco em qualidade, consistência e clareza na comunicação com áreas de ne
 Análise de datasets públicos do sistema judiciário brasileiro,
 com foco em identificação de padrões, tendências e indicadores relevantes.
 
-**Destaques:**
-- Processamento de mais de **50 mil registros**
-- Análise temporal de dados institucionais
-- Construção de **dashboard interativo em Power BI**
-
 ---
 
 ### 2. Dashboard de Monitoramento Institucional (Projeto Acadêmico)
@@ -64,25 +59,9 @@ com foco em identificação de padrões, tendências e indicadores relevantes.
 Desenvolvimento de dashboard completo para acompanhamento de indicadores,
 apoio à tomada de decisão e visualização de métricas estratégicas.
 
-**Funcionalidades:**
-- Modelagem e estruturação de dados
-- KPIs dinâmicos e filtros interativos
-- Consolidação de múltiplas fontes de dados
-
 ---
 
 ### 3. Data Cleaning com Python – Dataset Governamental
 
 Pipeline completo de limpeza, padronização e validação de dados públicos,
 garantindo qualidade e consistência das informações analisadas.
-
-**Processos implementados:**
-- Tratamento de valores nulos e duplicados
-- Padronização de formatos e categorias
-- Validação de integridade dos dados
-
-## 📂 Estrutura do Repositório
-- `/data` – Conjuntos de dados utilizados  
-- `/notebooks` – Análises e exploração dos dados  
-- `/dashboards` – Arquivos de visualização e BI  
-- `/docs` – Documentação e referências
