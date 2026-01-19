@@ -3,7 +3,7 @@ Limpeza, classificação e união de planilhas
 O projeto tem como objetivo o tratamento de planilhas utilizando de automações. Os dados utilizados para criar o código vieram de um Scrapping feito no Google utilizando palavras-chave
 O projeto acadêmico ao qual o código está vinculado se chama "Projeto Fogo na Fake", que tem como intuíto analisar a propagação de fake news relacionadas com o Cerrado, instruir e conscientizar o público quanto à esse problema
 
-# Arthur Santos | Analista de Dados em Formação
+# Arthur Santos | Analista de Dados Jr
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arthurfs)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurfs0)
